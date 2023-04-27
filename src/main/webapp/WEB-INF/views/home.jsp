@@ -10,7 +10,6 @@
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 </head>
 <body>
-	${msg}
 	<h3>깃 시작하기</h3>
 	<p>1. 커밋 해 보기</p>
 	<p>2. 커밋하지 않을 내용을 아예 삭제하고 싶을 때 폐기를 사용한다</p>
